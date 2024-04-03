@@ -44,6 +44,25 @@ a
     text-align: center;
 }
 
+.description-title
+{
+    font-family: FiraCode-Light, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 26px;
+    color: #333333;
+    text-align: center;
+}
+.description
+{
+    font-family: FiraCode-Light, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 32px;
+    font-size: 16px;
+    color: #676767;
+    text-align: center;
+}
+
 .sub-menu-item
 {
     font-family: FiraCode-Light, sans-serif;
@@ -55,7 +74,7 @@ a
 }
 .ee-content
 {
-    margin-top: 5%;
+    margin-top: 3%;
     width: 100%;
 }
 .ee-header
@@ -69,8 +88,8 @@ a
 #logo
 {
     display: block;
-    width: 450px;
-    height: 450px;
+    width: 380px;
+    height: 380px;
     margin-left: auto;
     margin-right: auto;
 }
