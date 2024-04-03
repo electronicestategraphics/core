@@ -8,6 +8,51 @@ html
     padding: 0;
     margin: 0;
 }
+.ee-container
+{
+    width: 100%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.web-app-name
+{
+    font-family: FiraCode-Light, sans-serif;
+    font-size: 32px;
+    color: #CD5475;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.menu-item:hover
+{
+    color: #CD5475 !important;
+}
+.menu-item
+{
+    font-family: FiraCode-Light, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    color: #333333;
+    text-align: center;
+}
+
+.sub-menu-item
+{
+    font-family: FiraCode-Light, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 28px;
+    color: #808080;
+    text-align: center;
+}
 .ee-content
 {
     margin-top: 5%;
